@@ -14,7 +14,11 @@
 <br />
 
 ### Latest Articles:
-- [A Comprehensive Guide to Ethereum Blockchain (Part 1)](https://medium.com/@farhan.habib11/a-comprehensive-guide-to-ethereum-blockchain-part-1-608cf33058ad)
+- [A Comprehensive Guide to Ethereum Blockchain (Part 1)](https://cfarhanhabib.medium.com/a-comprehensive-guide-to-ethereum-blockchain-part-1-608cf33058ad)
+- [A Comprehensive Guide to Ethereum Blockchain (Part 2)](https://cfarhanhabib.medium.com/a-comprehensive-guide-to-ethereum-blockchain-part-2-154d74c4b41c)
+- [A Comprehensive Guide to Ethereum Blockchain (Part 3)](https://cfarhanhabib.medium.com/a-comprehensive-guide-to-ethereum-blockchain-part-3-67c9c7b70861)
+- [Android Hilt Integration and Usage](https://cfarhanhabib.medium.com/android-hilt-integration-and-usage-e83250b4ea6f)
+- [Google-Cloud-Vision-API](https://cfarhanhabib.medium.com/google-cloud-vision-api-6fb913e87976)
 
 <br />
 
